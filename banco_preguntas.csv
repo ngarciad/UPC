@@ -1,0 +1,11 @@
+pregunta_opciones;respuesta_correcta
+¿Qué imprime el siguiente código? x = 5, print(type(x)) | a) <class 'str'> | b) <class 'int'> | c) <class 'float'> | d) <class 'bool'>; b
+¿Qué tipo de dato tiene la variable nombre = 'Python'? | a) int | b) str | c) list | d) bool; b
+¿Cuál de las siguientes es una lista válida en Python? | a) (1, 2, 3) | b) {1, 2, 3} | c) [1, 2, 3] | d) <1, 2, 3>; c
+¿Cuál de las siguientes es una tupla válida en Python? | a) [1, 2, 3] | b) (1, 2, 3) | c) {1: 2, 3: 4} | d) {1, 2, 3}; b
+¿Qué estructura de datos se usa para almacenar pares clave-valor? | a) list | b) tuple | c) dict | d) set; c
+¿Qué imprime el código? lista = [1, 2, 3],  print(lista[0]) | a) 0 | b) 1 | c) 2 | d) 3; b
+¿Cuál operador de comparación es correcto para igualdad en Python? | a) = | b) == | c) === | d) eq; b
+¿Qué palabra clave inicia una estructura condicional en Python? | a) when | b) if | c) for | d) switch; b
+Completa: if x > 10: print('Mayor') ______: print('Menor o igual') | a) else | b) elif | c) other | d) default; a
+¿Cuál es la sintaxis correcta de un bucle for sobre una lista llamada numeros? | a) for i in range(numeros): | b) for numeros in i: | c) for i of numeros: | d) for i in numeros:; d
