@@ -1,0 +1,21 @@
+pregunta_opciones,respuesta_correcta
+"¿Qué imprime el siguiente código? x = 5, print(type(x)) | a) <class 'str'> | b) <class 'int'> | c) <class 'float'> | d) <class 'bool'>", b
+¿Qué tipo de dato tiene la variable nombre = 'Python'? | a) int | b) str | c) list | d) bool, b
+"¿Cuál de las siguientes es una lista válida en Python? | a) (1, 2, 3) | b) {1, 2, 3} | c) [1, 2, 3] | d) <1, 2, 3>", c
+"¿Cuál de las siguientes es una tupla válida en Python? | a) [1, 2, 3] | b) (1, 2, 3) | c) {1: 2, 3: 4} | d) {1, 2, 3}", b
+¿Qué estructura de datos se usa para almacenar pares clave-valor? | a) list | b) tuple | c) dict | d) set, c
+"¿Qué imprime el código? lista = [1, 2, 3],  print(lista[0]) | a) 0 | b) 1 | c) 2 | d) 3", b
+¿Cuál operador de comparación es correcto para igualdad en Python? | a) = | b) == | c) === | d) eq, b
+¿Qué palabra clave inicia una estructura condicional en Python? | a) when | b) if | c) for | d) switch, b
+Completa: if x > 10: print('Mayor') ______: print('Menor o igual') | a) else | b) elif | c) other | d) default, a
+¿Cuál es la sintaxis correcta de un bucle for sobre una lista llamada numeros? | a) for i in range(numeros): | b) for numeros in i: | c) for i of numeros: | d) for i in numeros:, d
+¿Qué hace la instrucción break en un bucle? | a) Salta a la siguiente iteración | b) Finaliza el bucle | c) Repite la iteración | d) No hace nada, b
+¿Qué hace la instrucción continue en un bucle? | a) Finaliza el bucle | b) Vuelve al inicio del bucle saltando el resto del código | c) Sale de la función | d) Lanza un error, b
+¿Qué imprime el código? for i in range(3): print(i) | a) 1 2 3 | b) 0 1 2 | c) 0 1 2 3 | d) 1 2, b
+"¿Qué valor toma i en: for i in range(2, 5): ? | a) 2 3 4 5 | b) 2 3 4 | c) 3 4 5 | d) 0 1 2 3 4", b
+¿Qué imprime el código? x = 10; if x == 10: print('Diez') else: print('Otro') | a) 10 | b) Diez | c) Otro | d) Error de sintaxis, b
+¿Cuál es la forma correcta de un bucle while? | a) while (condición) { } | b) while condición: | c) while: condición | d) while (condición): end, b
+¿Qué ocurrirá con: while True: print('Hola')? | a) No se ejecuta nunca | b) Se ejecuta una sola vez | c) Bucle infinito | d) Error de sintaxis, c
+¿Cómo se agrega un elemento al final de una lista llamada datos? | a) datos.add(x) | b) datos.push(x) | c) datos.append(x) | d) datos.insert(x), c
+¿Cómo se accede al valor de la clave 'edad' en el diccionario persona? | a) persona.edad | b) persona['edad'] | c) persona(edad) | d) persona<edad>, b
+"¿Qué imprime el código? lista = [1, 2, 3]; for x in lista: print(x * 2) | a) 1 2 3 | b) 2 4 6 | c) 1 4 9 | d) 3 6 9", b
